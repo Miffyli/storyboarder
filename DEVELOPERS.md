@@ -1,6 +1,6 @@
 # Notes for Developers
 
-Tested with node v6.1.0.
+Tested with Node.js v24.
 
 ## Developing
 
