@@ -7,6 +7,7 @@ Tested with Node.js v24.
     $ cd server && npm install && cd ..
     $ npm install
     $ npm start
+    $ (Windows) npm run start:electron
 
 ## Loading Storyboards via Command Line
 
